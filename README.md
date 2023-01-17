@@ -1,3 +1,3 @@
 # DeltaLogger
 
-A simple logging backend for swift-log. I am planning on adding OSLog, file rotation and console logging support.
+Delta Client's old logging library. I have now moved to using [Puppy](https://github.com/sushichop/Puppy) but this repository remains public as to not break old commits of Delta Client.
